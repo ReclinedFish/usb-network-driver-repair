@@ -1,0 +1,11 @@
+# Default deny: explicitly allow only reviewed source files.
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/PRIVACY.md
+!/Repair-UsbNetworkDriver.ps1
+!/Export-PublicPackage.ps1
+!/tests/
+/tests/*
+!/tests/Repair-UsbNetworkDriver.Tests.ps1
